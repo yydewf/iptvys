@@ -1,5 +1,5 @@
 {
-  "code": 101,
-  "name": "1.0.1",
-  "desc": "* Update media3 version"
+  "code": 102,
+  "name": "1.0.2",
+  "desc": "* fix live duration"
 }
