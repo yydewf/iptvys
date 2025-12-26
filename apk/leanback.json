@@ -1,5 +1,5 @@
 {
-  "code": 504,
-  "name": "5.0.4",
-  "desc": "* 優化篩選傳值"
+  "code": 5041,
+  "name": "5.0.4_r1",
+  "desc": "* fix live duration"
 }
