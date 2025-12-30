@@ -1,5 +1,5 @@
 {
-  "code": 5041,
-  "name": "5.0.4_r1",
-  "desc": "* fix live duration"
+  "code": 5042,
+  "name": "5.0.4_r2",
+  "desc": "* rtsp vod duration"
 }
