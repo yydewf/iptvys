@@ -1,5 +1,5 @@
 {
-  "code": 5042,
-  "name": "5.0.4_r2",
-  "desc": "* rtsp vod duration"
+  "code": 5043,
+  "name": "5.0.4_r3",
+  "desc": "* get rtsp vod duration by user agent"
 }
