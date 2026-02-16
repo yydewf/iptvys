@@ -1,5 +1,5 @@
 {
-  "code": 104,
-  "name": "1.0.4",
-  "desc": "* get rtsp vod duration by ua config"
+  "code": 105,
+  "name": "1.0.5",
+  "desc": "* update exo to 1.9.2"
 }
